@@ -143,11 +143,11 @@ then to create an page to display the results of the stream processing in real t
 
 #### supplier
 
-![supplier](ressources//fsTestsupplier.png)
+![supplier](ressources//fsTestSupplier.png)
 
 #### Function
 
-![function](ressources//fsTestfunction.png)
+![function](ressources//fsTestFunction.png)
 
 #### stream processing
 
